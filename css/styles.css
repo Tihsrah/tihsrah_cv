@@ -53,7 +53,7 @@ p{
 .skill-row{
   width: 50%;
   margin: 100px auto 100px auto;
-  
+  text-align: left;
 
 }
 .web{
@@ -63,7 +63,6 @@ p{
 }
 .pro{
   width:25%;
-  height:25%;
   float: right;
   margin-left: 30px;
 }
