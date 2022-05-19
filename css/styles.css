@@ -63,11 +63,9 @@ p{
 }
 .pro{
   
-  float: right;
-  margin-left: 30px;
-  width:15%;
-  height:15%;
-  border-radius: 50%;
+  width:25%;
+  float: left;
+  margin-right: 30px;
 }
 .top {
   background-color: #E4F9F5;
